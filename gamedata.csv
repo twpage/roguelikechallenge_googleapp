@@ -1,0 +1,63 @@
+row_id,Image,Game  ,Challenger  ,Links,Platform
+3,03_2149RL.png,2149RL,Adam Piskel,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/3wwKNEPuJEo,Android
+4,04_approgue.png,AppRogue,vwood,http://7drl.org/2012/03/18/approgue-finished/,
+5,05_drillworms.png,Ascension of the Drillworms,Sebastian Steinhauer,http://7drl.org/2012/03/18/ascension-of-the-drillworms-success/,
+6,06_asylum.png,AsylumRL,scootah,http://scootah.com/asylumrl/,
+7,07_beyondthelight.png,Beyond the Light,Joe M,https://sites.google.com/site/beyondthelightrl/,Windows
+8,08_bonebuilder.png,Bone Builder,Goblinz,http://te4.org/blogs/goblinz/2012/03/7drl/7drl-entry-2012-bone-builder,
+9,09_cavechop.png,Cave Chop,Martin Read,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/P83Hthlx4jc,"Linux, Windows"
+10,10_cogmind.png,Cogmind,Josh Ge,http://cogmindrl.blogspot.se/2012/03/you-are-cogmind.html,Windows
+11,11_das_schurke_boot.png,Das Schurke Boot,John Maag,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/xK4J3LRFaeY,
+12,12_deadnightforest.png,Dead Night Forest Chapter 2: The Lost Caravan,Edwin DeNicholas,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/A-64-mT7aYE,"Windows, Mac"
+13,13_drakefirechasm.jpg,Drakefire Chasm,Tanthie,http://dowhilecompiling.blogspot.se/2012/03/7drl-2012-success-drakefire-chasm.html,
+14,14_dunerl.png,DuneRL,Draconis,https://github.com/NocturnalCode/DuneRL,Source compiles to Mac
+15,15_emet.png,Emet,jab,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/ksTcaL-3oWc,
+16,16_equalindeath.png,Equal in Death,yufra,http://te4.org/blogs/yufra/2012/03/7drl/7drl-equal-death,"Windows, Linux"
+17,17_escapefromthevault.png,Escape from the Vault,eggmceye,http://7drl.org/2012/03/18/escape-from-the-vault-finished/,Windows
+18,18_fictionalrogue.png,Fictional Roguelike,Tritax,http://7drl.org/2012/03/18/fictional-roguelike-success/,JVM
+19,19_fuel.png,Fuel,Ido Yehieli,http://roguebasin.roguelikedevelopment.org/index.php/Fuel,"Windows, Linux, Mac, Web"
+20,20_gateway.png,GatewayRL,kipar,http://7drl.org/2012/03/17/7drl-success-well-sort-of-gatewayrl/,
+21,21_hellmouth.png,Hellmouth,Eronarn,http://7drl.org/2012/03/17/hellmouth-day-six-seven/,"Linux, Windows will need curses"
+22,22_hope.png,Hope,Slashie,http://7drl.org/2012/03/18/hope-finished/,JVM
+23,23_hunterrl.png,HunterRL,Mosenzov,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/gh36zDJpvOQ,Windows
+24,24_hyperrogue2.png,HyperRogue II,Z,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/Ok2GCf0mMKg,"Mac, Linux, Windows"
+25,25_hyrule.png,"I rule, you rule, we all rule old-school Hyrule",Trystan Spangler,http://7drl.org/2012/03/17/i-rule-you-rule-we-all-rule-old-school-hyrule-day-7-with-a-link-to-the-game/,
+26,26_infiniverse.png,Infiniverse,Tapio,http://7drl.org/2012/03/18/infiniverse-success/,
+27,27_jaggedrl.png,JaggedRL,Michael Curran,https://plus.google.com/u/0/104650173197753798166/posts/YUNQxVVbnkb,"Windows, Linux (32-bit)"
+28,28_jelly.png,Jelly,sheep,http://7drl.org/2012/03/18/jelly/,"Windows, Linux"
+29,29_kaiju.png,Kaiju Roguelike,Jason Pickering,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/Hcj0m1MgQj0,Flash
+30,30_kitchenmaster.png,Kitchen Masters,Sammage,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/h57vepJCgnw,
+31,31_lifeofsirpointsalot.png,Life of Sir Pointsalot,Geeze,http://7drl.org/2012/03/17/life-of-sir-pointsalot-success/,
+32,32_linlem.png,LinLem's Vague Adventure Roguelike,"Mike ""LinLem"" W",http://linlem.jgoodliffe.com/2012/03/7drl-2012-success/,
+33,33_locks.png,Locks,zurn,http://7drl.org/2012/03/19/locks/,
+34,34_meagainstmutants.png,Me Against the Mutants,Team Ratking,http://7drl.org/2012/03/17/me-against-the-mutants-success/,
+35,35_montasall.png,Mont Asall,OceansDream,https://groups.google.com/forum/#!topic/rec.games.roguelike.announce/vBGlYvXEG80,
+36,36_mujahid.png,Mujahid,pat,http://7drl.org/2012/03/18/mujahid-success/,
+37,37_mutantaliens.png,Mutant Aliens,srd,http://7drl.org/2012/03/17/mutant-aliens-7drl-winner/,"Source compiles for Linux, Windows"
+38,38_nightfall.png,Nightfall,numeron,http://www.numeronreactor.com/,
+39,39_phage.png,phage,Pawel Kowalczyk,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/uTPYQezFkzI,TE4
+40,noimage.png,Professional Sword Tester the Roguelike,Oohara Yuuma,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/bzIAEeRla-o,Source compiles for Linux
+41,41_revengeontoyfactory.jpg,Revenge on a Toy Factory,Derrick Creamer,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/Bt-LliU_ZdA,
+42,42_roadlike.png,Roadlike,Sos Sowoski,http://sos.gd/roadlike/,Web
+43,43_robocaptain.png,RoboCaptain,heroicfisticuffs,http://7drl.org/2012/03/18/robocaptain-success-update/,
+44,44_ruinsofkalraman.png,Ruins of Kal Raman,tndwolf,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/cBzF6l_3GlY,
+45,45_shadowrogue.png,Shadow Rogue,Orkus Malorkus,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/_Rkx_wO3qrQ,
+46,46_smoothrogue.png,Smooth Rogue,peous,http://7drl.org/2012/03/17/smooth-rogue-final-version/,Unity
+47,47_steelknights.png,Steel Knights,psy_wombats,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/dN4h9nU0ClI,
+48,48_suncrusher.png,SUN CRUSHER!!!,JO,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/sU2OaXLIq_U,
+49,49_swampmonster.png,Swamp Monster,Craig Turner,http://trogrd.tumblr.com/post/19368976653/7drl-swamp-monster-rl,
+50,50_swordinhand.png,Sword in Hand,Jeff Lait,http://7drl.org/2012/03/18/sword-in-hand-success/,
+51,51_adventurersguild.png,The Adventurer's Guild,nolithius,http://www.nolithius.com/game-development/7drl-success-the-adventurers-guild,
+52,52_thechallenge.png,The Challenge!,XLambda,http://7drl.org/2012/03/17/7drl-success-the-challenge/,Any with Java
+53,53_tdojtd.png,The Death of Juga t'Dy,ivanah,https://groups.google.com/forum/#!topic/rec.games.roguelike.development/CY47sr55GSk,Windows
+54,54_wellofenchant.png,The Well of Enchantments,IBOL,http://forum.thegamecreators.com/?m=forum_view&t=195004&b=48&p=0,
+55,55_topdog.png,Top Dog,kbmonkey,http://7drl.org/2012/03/17/top-dog-success/,"Linux, Windows"
+56,56_traprl.png,TrapRL,RedMike,http://7drl.org/2012/03/18/traprl-success/,
+57,57_turambar.png,Turambar,Legend of Angband,https://groups.google.com/forum/#!topic/rec.games.roguelike.announce/wjrH1fFamVk,Java
+58,58_waaaghammer.png,Waaghammer,corremn,http://code.google.com/p/waaaghammer/,Windows
+59,59_warden.png,Warden,magikmw,http://michalwalczak.eu/mwall/index.php/warden-1-0-7drl-2012-release/,"Window, Linux (32-bit)"
+60,60_wyrm.png,Wyrm,deej,http://squidpony.com/category/thoughts/games/computer-games/wyrm/,JVM
+61,61_zaga-33.png,Zaga-33,"Michael ""Brog"" Brough",https://groups.google.com/forum/#!topic/rec.games.roguelike.development/oYiGCa4tct8,
+62,62_fragilewrath.png,Fragile Wrath,Konstantin Stupnik,https://groups.google.com/forum/?fromgroups#!topic/rec.games.roguelike.development/VwD1Ty9OR5E,
+63,63_darkvalhalla.png,Dark Valhalla,Legend,http://roguetemple.com/forums/index.php?topic=2242.0,Card game
+64,64_portalucis.png,Porta Lucis,Chris Whitman,http://christopherwhitman.net/blog/?p=11,"Windows, Linux (Wine)"

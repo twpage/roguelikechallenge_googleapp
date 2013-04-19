@@ -1,0 +1,148 @@
+ * {
+    margin: 0; 
+    padding: 0;
+}
+
+body, table, td, div, p, span, ul, li, h1, h2, h3, h4 {
+    font-family: "Brawler", "Verdana", sans-serif;
+    background: transparent;
+	color: white;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*canvas {*/
+	/*border-style: solid;*/
+	/*border-width: 1px;*/
+	/*border-color: white;*/
+/*}*/
+
+body {
+	background: rgb(50, 50, 50);
+	/*user-select: none;*/
+    /*-webkit-user-select: none;*/
+    /*-moz-user-select: none;*/
+}
+
+a {
+	color: rgb(0, 130, 255);
+}
+
+a.current_sort {
+	font-weight: bold;
+	color: orange;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.game_header {
+	color: #F39814;
+}
+
+.review_header {
+	font-size: 125%;
+	font-weight: bold;
+	color: #F39814;
+}
+
+.review_comments {
+	font-size: 75%;
+}
+
+.alternate_row {
+	background: #333333;
+}
+
+/*category_header_current {*/
+	/*color: orange;*/
+/*}*/
+
+/*category_header {*/
+	/*font-weight: bold;*/
+	/*text-decoration: underline;*/
+/*}*/
+
+#feedback { font-size: 1.4em; }
+/*#selectable .hovering { background: #FECA40; }*/
+#selectable .hovering { background: #0082FF; }
+
+
+/*#selectable .hovering { background: #FECA40; margin: 3px; padding: 1px; float: left; width: 240px; height: 180px; font-size: 4em; text-align: center; }*/
+
+/*#selectable .selected { background: #F39814; color: white; }*/
+#selectable { list-style-type: none; margin: 0; padding: 0; }
+/*#selectable li { margin: 3px; padding: 1px; float: left; width: 192px; height: 144px; font-size: 4em; text-align: center; }*/
+#selectable li { margin: 3px; padding: 1px; float: left; width: 192px; height: 200px; font-size: 4em; text-align: center; }
+	
+li.game_image {
+	background: black;
+}
+.game_info {
+	font-size: 10px;
+}
+table.game_info {
+	table-layout: fixed;
+	width: 100%;
+	border-width: 1px;
+	border-color: #777777;
+	border-style: solid;
+	text-align: center;
+}
+td.game_info {
+	border-width: 1px;
+	border-color: #777777;
+	border-style: solid;
+	border-top: none;
+	border-bottom: none;
+}
+td.game_info_sort {
+	border-width: 1px;
+	border-color: #777777;
+	border-style: solid;
+	border-top: none;
+	border-bottom: none;
+	color: orange;
+}
+div#id_div_content {
+	height: 960;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+div#id_div_header {
+	font-size: 75%;
+}
+
+div#id_div_controls {
+	height: 30;
+	border-width: 1px;
+	border-color: #777777;
+	border-style: solid;
+}
+
+div#id_div_reviews {
+	overflow: scroll;
+	overflow-x: hidden;
+	height: 75%;
+	width: 75%;
+	display: none;
+	background: black;
+	border-width: 5px;
+	border-color: #FECA40;
+	border-style: double; 
+}
+
+select {
+	background: rgb(50, 50, 50);
+	color: white;
+}
+
+div#id_div_footer {
+	font-size: 50%;
+}
